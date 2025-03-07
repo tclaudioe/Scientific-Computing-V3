@@ -11,7 +11,7 @@ All the jupyter notebooks of ``INF-285 Computación Científica``.
 If you have any questions or suggestions, please send the to _claudio.torres_ at (@) _usm.cl_ .
 
 ---
-List of main files
+## List of main files
 
 | Chapter | Topic | Link |
 | :---         |     :---      |         :--- |
