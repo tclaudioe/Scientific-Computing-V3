@@ -5,7 +5,7 @@ Lots of fun stuffs about Scientific Computing!
 Claudio Torres is a faculty member at [Department of Informatics](http://www.inf.utfsm.cl),
 [UTFSM](http://www.usm.cl).
 
-## What will this repo contain? 
+## What does this repo contains? 
 All the jupyter notebooks of ``INF-285 Computación Científica``.
 
 If you have any questions or suggestions, please send the to _claudio.torres_ at (@) _usm.cl_ .
@@ -41,8 +41,10 @@ All of them are interesting and **even easier to use** now with the CoLab link!
   - _**Solving a system of linear equations**_: A traditional first approach to solve a system of linear equations one thinks of is by computing the **forbidden** inverse of a matrix, i.e. $A^{-1}$. Here we show that this approach is an slow alternative, there are other issues but for now it is enough to know it is just slow. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tclaudioe/Scientific-Computing-V3/blob/main/Bonus%20-%20current/Bonus%20-%2000%20-%20Solving%20a%20system%20of%20linear%20equations.ipynb)
   - Interesting examples to play with during the beginning of the semester:
       - _**First lecture - linear transformation of an image**_: Here we can observe how a linear transformation applied to an image works. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tclaudioe/Scientific-Computing-V3/blob/main/Bonus%20-%20current/Bonus%20-%2000%20-%20First%20lecture%20-%20linear%20transformation%20of%20an%20image.ipynb)
-      - **WORKING ON**
+      - _**Playing with Julia**_: Here we analyze two alternative implementations for the computation of a series. The number of terms requiered to see the difference is huge, so we implemented in the Julia language because if this was done in Python (in the way we needed) it would have needed too much time. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tclaudioe/Scientific-Computing-V3/blob/main/Bonus%20-%20current/Bonus%20-%2000%20-%20Playing%20with%20Julia.ipynb)
+      - _**Class zero - a mix of some Jupyter Notebooks and more**_: This was used in a first lecture in the past. It contains a brief overview of key points of NumPy and Matplotlib. The interesting part is that it has some interesting questions in it. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tclaudioe/Scientific-Computing-V3/blob/main/Bonus%20-%20current/Bonus%20-%2000%20-%20Class%20zero.ipynb)
 - _Introduction_
+  - **WORKING ON**
 - _Floating point arithmetic_
 - _Roots of 1D functions_
 - _System of linear equations_
