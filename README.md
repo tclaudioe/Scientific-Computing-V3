@@ -23,7 +23,9 @@ If you have any questions or suggestions, please send the to _claudio.torres_ at
 4. Learn to analyze how different algorithms and methods handle particular problems
 
 Below, we show the list of main files related to each chapter on the classnotes and below that we have a list of **Bonus** files that complements the mains files.
-All of them are interesting and **even easier to use** now with the CoLab link!
+All of them are interesting and **even easier to use** now with the *CoLab* link!
+
+Alternatively, you can look at the files in a static version using nbviewer from [jupyter.org](https://nbviewer.org/github/tclaudioe/Scientific-Computing-V3/tree/main/)
 
 ## List of main files
 
@@ -31,7 +33,7 @@ All of them are interesting and **even easier to use** now with the CoLab link!
 | Chapter | Topic                          | Link                                                                                                                                                                                                    |
 | :-------- | :------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1       | Introduction                   | See classnotes                                                                                                                                                                                          |
-| 2       | Floating point arithmetic      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tclaudioe/Scientific-Computing-V3/blob/main/02_floating_point_arithmetic.ipynb)   |
+| 2       | Floating point arithmetic      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tclaudioe/Scientific-Computing-V3/blob/main/02_floating_point_arithmetic.ipynb)  |
 | 3       | Roots of 1D functions          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tclaudioe/Scientific-Computing-V3/blob/main/03_roots_of_1D_functions.ipynb)       |
 | 4       | System of linear equations     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tclaudioe/Scientific-Computing-V3/blob/main/04_system_of_linear_equations.ipynb)  |
 | 5       | Polynomial interpolation in 1D | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tclaudioe/Scientific-Computing-V3/blob/main/05_Polynomial_Interpolation_1D.ipynb) |
