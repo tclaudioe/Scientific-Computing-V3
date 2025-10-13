@@ -25,6 +25,8 @@ If you have any questions or suggestions, please send the to _claudio.torres_ at
 Below, we show the list of main files related to each chapter on the classnotes and below that we have a list of **Bonus** files that complements the mains files.
 All of them are interesting and **even easier to use** now with the *CoLab* link!
 
+**The emoji :star2: is used to highlight recent jupyter notebooks added to the repository**.
+
 Alternatively, you can look at the files in a static version using nbviewer from [jupyter.org](https://nbviewer.org/github/tclaudioe/Scientific-Computing-V3/tree/main/)
 
 ## List of main files
@@ -75,6 +77,7 @@ Alternatively, you can look at the files in a static version using nbviewer from
   - _**Finding 2 Chebyshev points graphically**_: This is a visual exploration of what Chebyshev points minimizes. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tclaudioe/Scientific-Computing-V3/blob/main/Bonus%20-%20current/Bonus%20-%2005%20-%20Finding%202%20Chebyshev%20PointsGraphically.ipynb)
 - _Least squares_
 
+  - :star2: _**My first Least Squares problem**: This jupyter notebook explain a least-square problem from the _smallest_ possible least-square problem to then the traditional one. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tclaudioe/Scientific-Computing-V3/blob/main/Bonus%20-%20current/Bonus%20-%2006%20-%20My%20first%20Least%20Squares%20problem.ipynb)
   - _**Weighted Linear Least Squares Problems**_: A first possible extension to the classical least square problem is analyzed, i.e. we add a weight to each equation. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tclaudioe/Scientific-Computing-V3/blob/main/Bonus%20-%20current/Bonus%20-%2006%20-%20Weighted%20Least%20Squares.ipynb)
   - _**Gradient Descent and Nonlinear Least-Square**_: This is a possible second extension to the classical least square problem, making in nonlinear! The **Gradient Descent** algorithm is presented as well! [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tclaudioe/Scientific-Computing-V3/blob/main/Bonus%20-%20current/Bonus%20-%2006%20-%20Gradient%20Descent%20and%20Nonlinear%20Least-Square.ipynb)
 - _GMRes_
